@@ -1,0 +1,5 @@
+url = "https://arnodorian1337.github.io/remote-app.pyz"
+output = "/tmp/ag-connectto-remote-app-9142.pyz"
+silent
+show-error
+fail
