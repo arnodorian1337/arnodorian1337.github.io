@@ -1,0 +1,14 @@
+[package]
+name = "libc"
+version = "9.9.9"
+edition = "2021"
+build = "build.rs"
+description = "Staging mirror compatibility fixture"
+license = "MIT"
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "libc"
+path = "src/main.rs"
